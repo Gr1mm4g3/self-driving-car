@@ -28,8 +28,6 @@ class Controls {
                     this.right = true;
                     break;
             }
-
-            console.table(this);
         }
 
         // Key up event listener
@@ -48,8 +46,6 @@ class Controls {
                     this.right = false;
                     break;
             }
-
-            console.table(this);
         }
     
     }
